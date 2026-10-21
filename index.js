@@ -43,8 +43,8 @@
 // ================================================================== EX 3
 
 // const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20];
-// let filter = numeros.filter((numeros) => numeros % 2 === 0);
-// console.log(filter)
+let filter = numeros.filter((numeros) => numeros % 2 === 0);
+console.log(filter)
 
 // ================================================================== EX 4
 
@@ -54,5 +54,26 @@
 
 // ================================================================== EX 7
 
-const colegas = [Felipe, Marsol, Bernado, Ygor, Zépinto]
- 
+// const colegas = ['Felipe', 'Marsol', 'Bernado', 'Ygor', 'Zépinto']
+// colegas.forEach((colega) => console.log(colega + " Presente"))
+
+// ================================================================== EX 8
+
+// const figurinhas = ['Leão', 'Tigre', 'Urso'];
+// figurinhas.forEach((figurinhas) => console.log(figurinha + " Tenho"))
+
+// ================================================================== EX 9
+
+// const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10,]
+// let filter = numeros.filter((numeros) => numeros % 2 ==  1);
+
+// ================================================================== EX 11
+
+const mochila1 = ['lápis', 'caderno'];
+const mochila2 = ['borracha', regua];
+
+// ================================================================== EX 12
+
+const heroi = { nome: 'Raio Azul', poder: 'velocidade', nivel: 7 };
+
+
